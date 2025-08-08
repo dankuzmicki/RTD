@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FootprintFeed schemaVersion="0.1">
+  <FeedInfo>
+    <providerID>legacyplus.org</providerID>
+    <providerName>Legacy Plus Volunteer Feed (custom)</providerName>
+    <createdDateTime olsonTZ="America/Toronto">2025-08-07T19:10:35</createdDateTime>
+    <providerURL>https://legacyplus.org</providerURL>
+    <termsOfUse>Internal aggregation for demonstration/testing.</termsOfUse>
+  </FeedInfo>
+  <Organizations>
+    <Organization>
+      <organizationID>org-rmhc-cni</organizationID>
+      <name>Ronald McDonald House Charities of Chicagoland &amp; Northwest Indiana</name>
+      <organizationURL>https://rmhccni.org</organizationURL>
+      <phone>630-354-7750</phone>
+      <location>
+        <virtual>No</virtual>
+        <city>Hines</city>
+        <region>IL</region>
+        <postalCode>60141</postalCode>
+      </location>
+      <detailURL>https://rmhccni.org/contact-us/</detailURL>
+    </Organization>
+    <Organization>
+      <organizationID>org-rmhc-enc</organizationID>
+      <name>Ronald McDonald House Charities of Eastern North Carolina</name>
+      <organizationURL>https://rmhcenc.org</organizationURL>
+      <phone>252-847-5435</phone>
+      <location>
+        <virtual>No</virtual>
+        <city>Greenville</city>
+        <region>NC</region>
+        <postalCode>27834</postalCode>
+      </location>
+      <detailURL>https://rmhcenc.org/contact-us/</detailURL>
+    </Organization>
+    <Organization>
+      <organizationID>org-rmhny</organizationID>
+      <name>Ronald McDonald House New York</name>
+      <organizationURL>https://www.rmh-newyork.org</organizationURL>
+      <phone>212-639-0100</phone>
+      <location>
+        <virtual>No</virtual>
+        <city>New York</city>
+        <region>NY</region>
+        <postalCode>10021</postalCode>
+      </location>
+      <detailURL>https://www.rmh-newyork.org/pages/contact-us</detailURL>
+    </Organization>
+    <Organization>
+      <organizationID>org-greenville-nc</organizationID>
+      <name>City of Greenville (NC) – Volunteer Programs</name>
+      <organizationURL>https://www.greenvillenc.gov</organizationURL>
+      <location>
+        <virtual>No</virtual>
+        <city>Greenville</city>
+        <region>NC</region>
+      </location>
+      <detailURL>https://cityofgreenville.volunteerlocal.com/</detailURL>
+    </Organization>
+    <Organization>
+      <organizationID>org-joy-cc</organizationID>
+      <name>JOY Community Center &amp; Soup Kitchen</name>
+      <organizationURL>https://joycommunitycenter.org</organizationURL>
+      <phone>252-561-7519</phone>
+      <location>
+        <virtual>No</virtual>
+        <city>Greenville</city>
+        <region>NC</region>
+        <postalCode>27834</postalCode>
+      </location>
+      <detailURL>https://joycommunitycenter.org/contact/</detailURL>
+    </Organization>
+    <Organization>
+      <organizationID>org-ccc</organizationID>
+      <name>Community Crossroads Center</name>
+      <organizationURL>https://www.greenvillecommunityshelter.org</organizationURL>
+      <phone>252-752-0829</phone>
+      <location>
+        <virtual>No</virtual>
+        <city>Greenville</city>
+        <region>NC</region>
+        <postalCode>27834</postalCode>
+      </location>
+      <detailURL>https://www.greenvillecommunityshelter.org/contact</detailURL>
+    </Organization>
+    <Organization>
+      <organizationID>org-ghs</organizationID>
+      <name>Greenville Humane Society</name>
+      <organizationURL>https://www.greenvillehumane.com</organizationURL>
+      <phone>864-242-3626</phone>
+      <location>
+        <virtual>No</virtual>
+        <city>Greenville</city>
+        <region>SC</region>
+        <postalCode>29607</postalCode>
+      </location>
+      <detailURL>https://www.greenvillehumane.com/volunteer/</detailURL>
+    </Organization>
+    <Organization>
+      <organizationID>org-uwpc</organizationID>
+      <name>United Way of Pitt County</name>
+      <organizationURL>https://www.uwpcnc.org</organizationURL>
+      <phone>252-758-1604</phone>
+      <location>
+        <virtual>No</virtual>
+        <city>Greenville</city>
+        <region>NC</region>
+        <postalCode>27858</postalCode>
+      </location>
+      <detailURL>https://www.uwpcnc.org/volunteer</detailURL>
+    </Organization>
+    <Organization>
+      <organizationID>org-volunteermatch</organizationID>
+      <name>VolunteerMatch</name>
+      <organizationURL>https://www.volunteermatch.org</organizationURL>
+      <location>
+        <virtual>No</virtual>
+      </location>
+      <detailURL>https://www.volunteermatch.org</detailURL>
+    </Organization>
+  </Organizations>
+  <VolunteerOpportunities>
+    <VolunteerOpportunity>
+      <volunteerOpportunityID>opp-rmhc-cni-1</volunteerOpportunityID>
+      <sponsoringOrganizationIDs>
+        <sponsoringOrganizationID>org-rmhc-cni</sponsoringOrganizationID>
+      </sponsoringOrganizationIDs>
+      <title>Volunteer at RMHC-CNI Houses &amp; Family Rooms (Chicago Area)</title>
+      <abstract>Support families with hospitalized children by preparing meals, hospitality, and event support at RMHC-CNI Houses and Family Rooms.</abstract>
+      <dateTimeDurations>
+        <dateTimeDuration>
+          <openEnded>Yes</openEnded>
+        </dateTimeDuration>
+      </dateTimeDurations>
+      <locations>
+        <location>
+          <virtual>No</virtual>
+          <city>Chicago</city>
+          <region>IL</region>
+        </location>
+      </locations>
+      <audienceTags>
+        <audienceTag>Adults</audienceTag>
+        <audienceTag>Groups</audienceTag>
+      </audienceTags>
+      <categoryTags>
+        <categoryTag>Family Services</categoryTag>
+        <categoryTag>Hospitality</categoryTag>
+        <categoryTag>Meals</categoryTag>
+      </categoryTags>
+      <language>English</language>
+      <detailURL>https://rmhccni.org/get-involved/individual-volunteer/</detailURL>
+    </VolunteerOpportunity>
+    <VolunteerOpportunity>
+      <volunteerOpportunityID>opp-rmhc-enc-1</volunteerOpportunityID>
+      <sponsoringOrganizationIDs>
+        <sponsoringOrganizationID>org-rmhc-enc</sponsoringOrganizationID>
+      </sponsoringOrganizationIDs>
+      <title>Volunteer with RMHC of Eastern North Carolina (Greenville)</title>
+      <abstract>Help keep families close by serving at the House: front desk, baking, meals, activities, and more.</abstract>
+      <dateTimeDurations>
+        <dateTimeDuration>
+          <openEnded>Yes</openEnded>
+        </dateTimeDuration>
+      </dateTimeDurations>
+      <locations>
+        <location>
+          <virtual>No</virtual>
+          <city>Greenville</city>
+          <region>NC</region>
+          <postalCode>27834</postalCode>
+        </location>
+      </locations>
+      <audienceTags>
+        <audienceTag>Adults</audienceTag>
+        <audienceTag>Teens</audienceTag>
+      </audienceTags>
+      <categoryTags>
+        <categoryTag>Family Services</categoryTag>
+        <categoryTag>Hospitality</categoryTag>
+        <categoryTag>Meals</categoryTag>
+      </categoryTags>
+      <language>English</language>
+      <detailURL>https://rmhcenc.org/volunteer/</detailURL>
+    </VolunteerOpportunity>
+    <VolunteerOpportunity>
+      <volunteerOpportunityID>opp-rmhny-1</volunteerOpportunityID>
+      <sponsoringOrganizationIDs>
+        <sponsoringOrganizationID>org-rmhny</sponsoringOrganizationID>
+      </sponsoringOrganizationIDs>
+      <title>Volunteer with Ronald McDonald House New York</title>
+      <abstract>Support families at the House and partner hospitals in Manhattan, Queens, and Brooklyn.</abstract>
+      <dateTimeDurations>
+        <dateTimeDuration>
+          <openEnded>Yes</openEnded>
+        </dateTimeDuration>
+      </dateTimeDurations>
+      <locations>
+        <location>
+          <virtual>No</virtual>
+          <city>New York</city>
+          <region>NY</region>
+          <postalCode>10021</postalCode>
+        </location>
+      </locations>
+      <audienceTags>
+        <audienceTag>Adults</audienceTag>
+        <audienceTag>Groups</audienceTag>
+      </audienceTags>
+      <categoryTags>
+        <categoryTag>Family Services</categoryTag>
+        <categoryTag>Hospital Programs</categoryTag>
+      </categoryTags>
+      <language>English</language>
+      <detailURL>https://www.rmh-newyork.org/pages/volunteering</detailURL>
+    </VolunteerOpportunity>
+    <VolunteerOpportunity>
+      <volunteerOpportunityID>opp-greenville-programs-1</volunteerOpportunityID>
+      <sponsoringOrganizationIDs>
+        <sponsoringOrganizationID>org-greenville-nc</sponsoringOrganizationID>
+      </sponsoringOrganizationIDs>
+      <title>City of Greenville Programs: Adopt-A-Street, MLK Day of Service, FROGGS &amp; more</title>
+      <abstract>Help keep Greenville beautiful: adopt a street, join MLK Day of Service cleanups, or support greenway projects with FROGGS.</abstract>
+      <dateTimeDurations>
+        <dateTimeDuration>
+          <openEnded>Yes</openEnded>
+        </dateTimeDuration>
+      </dateTimeDurations>
+      <locations>
+        <location>
+          <virtual>No</virtual>
+          <city>Greenville</city>
+          <region>NC</region>
+        </location>
+      </locations>
+      <audienceTags>
+        <audienceTag>Adults</audienceTag>
+        <audienceTag>Teens</audienceTag>
+        <audienceTag>Families</audienceTag>
+      </audienceTags>
+      <categoryTags>
+        <categoryTag>Beautification</categoryTag>
+        <categoryTag>Parks</categoryTag>
+        <categoryTag>Events</categoryTag>
+      </categoryTags>
+      <language>English</language>
+      <detailURL>https://cityofgreenville.volunteerlocal.com/</detailURL>
+    </VolunteerOpportunity>
+    <VolunteerOpportunity>
+      <volunteerOpportunityID>opp-joy-1</volunteerOpportunityID>
+      <sponsoringOrganizationIDs>
+        <sponsoringOrganizationID>org-joy-cc</sponsoringOrganizationID>
+      </sponsoringOrganizationIDs>
+      <title>JOY Community Center (Soup Kitchen): Serve or Prep Meals</title>
+      <abstract>Prepare or serve daily meals for neighbors at JOY Community Center. Volunteers must be 16+ to be in the kitchen.</abstract>
+      <dateTimeDurations>
+        <dateTimeDuration>
+          <openEnded>Yes</openEnded>
+        </dateTimeDuration>
+      </dateTimeDurations>
+      <locations>
+        <location>
+          <virtual>No</virtual>
+          <city>Greenville</city>
+          <region>NC</region>
+          <postalCode>27834</postalCode>
+        </location>
+      </locations>
+      <audienceTags>
+        <audienceTag>Adults</audienceTag>
+        <audienceTag>Teens</audienceTag>
+      </audienceTags>
+      <categoryTags>
+        <categoryTag>Hunger</categoryTag>
+        <categoryTag>Food Service</categoryTag>
+      </categoryTags>
+      <language>English</language>
+      <detailURL>https://joycommunitycenter.org/</detailURL>
+    </VolunteerOpportunity>
+    <VolunteerOpportunity>
+      <volunteerOpportunityID>opp-ccc-1</volunteerOpportunityID>
+      <sponsoringOrganizationIDs>
+        <sponsoringOrganizationID>org-ccc</sponsoringOrganizationID>
+      </sponsoringOrganizationIDs>
+      <title>Community Crossroads Center (Shelter): Breakfast, Lunch Prep, or Bagged Meals</title>
+      <abstract>Support shelter meal service by helping with breakfast, lunch prep, or assembling bagged meals for residents.</abstract>
+      <dateTimeDurations>
+        <dateTimeDuration>
+          <openEnded>Yes</openEnded>
+        </dateTimeDuration>
+      </dateTimeDurations>
+      <locations>
+        <location>
+          <virtual>No</virtual>
+          <city>Greenville</city>
+          <region>NC</region>
+          <postalCode>27834</postalCode>
+        </location>
+      </locations>
+      <audienceTags>
+        <audienceTag>Adults</audienceTag>
+        <audienceTag>Groups</audienceTag>
+      </audienceTags>
+      <categoryTags>
+        <categoryTag>Shelter</categoryTag>
+        <categoryTag>Meals</categoryTag>
+      </categoryTags>
+      <language>English</language>
+      <detailURL>https://www.greenvillecommunityshelter.org/volunteer</detailURL>
+    </VolunteerOpportunity>
+    <VolunteerOpportunity>
+      <volunteerOpportunityID>opp-ghs-1</volunteerOpportunityID>
+      <sponsoringOrganizationIDs>
+        <sponsoringOrganizationID>org-ghs</sponsoringOrganizationID>
+      </sponsoringOrganizationIDs>
+      <title>Greenville Humane Society: Volunteer with Animals or Youth Programs</title>
+      <abstract>Help care for animals, assist with adoptions, or support youth volunteer programs in Greenville, SC.</abstract>
+      <dateTimeDurations>
+        <dateTimeDuration>
+          <openEnded>Yes</openEnded>
+        </dateTimeDuration>
+      </dateTimeDurations>
+      <locations>
+        <location>
+          <virtual>No</virtual>
+          <city>Greenville</city>
+          <region>SC</region>
+          <postalCode>29607</postalCode>
+        </location>
+      </locations>
+      <audienceTags>
+        <audienceTag>Adults</audienceTag>
+        <audienceTag>Teens</audienceTag>
+      </audienceTags>
+      <categoryTags>
+        <categoryTag>Animals</categoryTag>
+        <categoryTag>Youth</categoryTag>
+      </categoryTags>
+      <language>English</language>
+      <detailURL>https://www.greenvillehumane.com/volunteer/</detailURL>
+    </VolunteerOpportunity>
+    <VolunteerOpportunity>
+      <volunteerOpportunityID>opp-uwpc-1</volunteerOpportunityID>
+      <sponsoringOrganizationIDs>
+        <sponsoringOrganizationID>org-uwpc</sponsoringOrganizationID>
+      </sponsoringOrganizationIDs>
+      <title>Pitt County United Way (Remote): Volunteer-from-Home Kits</title>
+      <abstract>Assemble hygiene, new mom, foster kids, and senior care kits from home to support Pitt County residents.</abstract>
+      <dateTimeDurations>
+        <dateTimeDuration>
+          <openEnded>Yes</openEnded>
+        </dateTimeDuration>
+      </dateTimeDurations>
+      <locations>
+        <location>
+          <virtual>No</virtual>
+          <city>Greenville</city>
+          <region>NC</region>
+          <postalCode>27858</postalCode>
+        </location>
+      </locations>
+      <audienceTags>
+        <audienceTag>Adults</audienceTag>
+        <audienceTag>Families</audienceTag>
+        <audienceTag>Groups</audienceTag>
+      </audienceTags>
+      <categoryTags>
+        <categoryTag>Remote</categoryTag>
+        <categoryTag>Kits</categoryTag>
+        <categoryTag>Basic Needs</categoryTag>
+      </categoryTags>
+      <language>English</language>
+      <detailURL>https://www.uwpcnc.org/volunteer</detailURL>
+    </VolunteerOpportunity>
+    <VolunteerOpportunity>
+      <volunteerOpportunityID>opp-volunteermatch-1</volunteerOpportunityID>
+      <sponsoringOrganizationIDs>
+        <sponsoringOrganizationID>org-volunteermatch</sponsoringOrganizationID>
+      </sponsoringOrganizationIDs>
+      <title>VolunteerMatch: Search 75+ Local Listings Across Causes</title>
+      <abstract>Browse volunteer opportunities across many causes and organizations.</abstract>
+      <dateTimeDurations>
+        <dateTimeDuration>
+          <openEnded>Yes</openEnded>
+        </dateTimeDuration>
+      </dateTimeDurations>
+      <locations>
+        <location>
+          <virtual>No</virtual>
+        </location>
+      </locations>
+      <audienceTags>
+        <audienceTag>Adults</audienceTag>
+        <audienceTag>Teens</audienceTag>
+        <audienceTag>Families</audienceTag>
+      </audienceTags>
+      <categoryTags>
+        <categoryTag>Directory</categoryTag>
+        <categoryTag>Multi-cause</categoryTag>
+      </categoryTags>
+      <language>English</language>
+      <detailURL>https://www.volunteermatch.org/</detailURL>
+    </VolunteerOpportunity>
+  </VolunteerOpportunities>
+</FootprintFeed>
