@@ -416,5 +416,41 @@ By joining the Greenville Humane Society Volunteer Program, you will become a pa
       <language>English</language>
       <detailURL>https://www.volunteermatch.org/</detailURL>
     </VolunteerOpportunity>
+    <VolunteerOpportunity>
+  <volunteerOpportunityID>opp-beast-philanthropy-1</volunteerOpportunityID>
+  <sponsoringOrganizationIDs>
+    <sponsoringOrganizationID>org-beast-philanthropy</sponsoringOrganizationID>
+  </sponsoringOrganizationIDs>
+  <title>Beast Philanthropy: Food Packing & Distribution in Pitt County, NC</title>
+  <abstract>Assist Beast Philanthropy in packaging food boxes, portioning produce, proteins and baked goods, and distributing to communities in Pitt County. Volunteer as a team or individually to help reduce food insecurity. Events include pantry operations and mobile food distributions.</abstract>
+  <dateTimeDurations>
+    <dateTimeDuration>
+      <openEnded>No</openEnded>
+      <!-- Specific event dates not included here. For recurring or scheduled events, you could embed them as separate opportunities -->
+    </dateTimeDuration>
+  </dateTimeDurations>
+  <locations>
+    <location>
+      <virtual>No</virtual>
+      <city>Greenville</city>
+      <region>NC</region>
+      <postalCode></postalCode>
+    </location>
+  </locations>
+  <audienceTags>
+    <audienceTag>Adults</audienceTag>
+    <audienceTag>Groups</audienceTag>
+    <audienceTag>Teens</audienceTag>
+    <audienceTag>Families</audienceTag>
+  </audienceTags>
+  <categoryTags>
+    <categoryTag>Food Service</categoryTag>
+    <categoryTag>Hunger</categoryTag>
+    <categoryTag>Basic Needs</categoryTag>
+    <categoryTag>Distribution</categoryTag>
+  </categoryTags>
+  <language>English</language>
+  <detailURL>https://www.givepulse.com/group/525144-Beast-Philanthropy</detailURL>
+</VolunteerOpportunity>
   </VolunteerOpportunities>
 </FootprintFeed>
