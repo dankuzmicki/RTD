@@ -122,6 +122,19 @@ By joining the Greenville Humane Society Volunteer Program, you will become a pa
       </location>
       <detailURL>https://www.volunteermatch.org</detailURL>
     </Organization>
+        <Organization>
+      <organizationID>org-beast-philanthropy</organizationID>
+      <name>Beast Philanthropy</name>
+      <organizationURL>https://www.beastphilanthropy.org</organizationURL>
+      <location>
+        <virtual>No</virtual>
+        <city>Greenville</city>
+        <region>NC</region>
+        <postalCode>27858</postalCode>
+      </location>
+      <detailURL>https://www.givepulse.com/group/525144-Beast-Philanthropy</detailURL>
+    </Organization>
+  </Organizations>
   </Organizations>
   <VolunteerOpportunities>
     <VolunteerOpportunity>
