@@ -437,7 +437,7 @@ By joining the Greenville Humane Society Volunteer Program, you will become a pa
   <abstract>Assist Beast Philanthropy in packaging food boxes, portioning produce, proteins and baked goods, and distributing to communities in Pitt County. Volunteer as a team or individually to help reduce food insecurity. Events include pantry operations and mobile food distributions.</abstract>
   <dateTimeDurations>
     <dateTimeDuration>
-      <openEnded>No</openEnded>
+      <openEnded>Yes</openEnded>
       <!-- Specific event dates not included here. For recurring or scheduled events, you could embed them as separate opportunities -->
     </dateTimeDuration>
   </dateTimeDurations>
