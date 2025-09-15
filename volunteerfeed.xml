@@ -438,7 +438,6 @@ By joining the Greenville Humane Society Volunteer Program, you will become a pa
   <dateTimeDurations>
     <dateTimeDuration>
       <openEnded>Yes</openEnded>
-      <!-- Specific event dates not included here. For recurring or scheduled events, you could embed them as separate opportunities -->
     </dateTimeDuration>
   </dateTimeDurations>
   <locations>
